@@ -1,0 +1,9 @@
+.pending {
+    background-color: rgb(210, 210, 210);
+    color: rgb(67, 67, 67);
+}
+
+.paid {
+    background-color: rgb(55, 209, 55);
+    color: white;
+}
